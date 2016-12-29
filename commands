@@ -1,0 +1,16 @@
+curl http://localhost:8983/solr/IRF16P1/update?stream.body='<delete><query>*:*</query></delete>'&commit=true
+
+
+curl -X POST -H 'Content-type:application/json' --data-binary '{
+   "replace-field-type":{
+      "name":"tweet_date",
+      "class":"solr.TrieDateField",
+      "positionIncrementGap":"100",
+      "analyzer":{
+         "tokenizer":{ 
+           "class":"solr.StandardTokenizerFactory" }}}
+}' http://localhost:8983/solr/IRF16P1/managed-schema
+
+
+
+T9:[0-9][0-9]:[0-9][0-9]Z

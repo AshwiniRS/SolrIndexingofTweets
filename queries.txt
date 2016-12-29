@@ -1,0 +1,10 @@
+Query query = new Query("#iPhone7 OR #iphone7 OR #appleevent OR #IPHONE7 OR #iphone 7 +exclude:retweets");
+Query query = new Query("\"(#watch2)\" OR \"(#applewatch)\" +exclude:retweets");
+
+Query query = new Query("\"(#gameofthrones7)\" OR \"(#gameofthrones)\" OR \"(#JonSnow)\" OR \"(#winteriscoming)\" OR \"(GOTSeason7)\" OR \"(#GOT7)\");
+
+Query query = new Query("\"(#usopen)\" OR \"(#stanwawrinka)\" OR \"(#wawrinka)\"");
+
+Query query = new Query("\"(#USPresidentialElections)\" OR \"(#US Presidential Elections)\" OR \"(#DonaldTrump)\" OR \"(#HillaryClinton)\" OR \"(USpresidentialpolls2016)\" +exclude:retweets");
+
+Query query = new Query("\"(#syria)\" OR \"(#SyrianCivilWar)\" OR \"(Syrian Civil War)\"");

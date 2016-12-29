@@ -1,0 +1,29 @@
+{
+  "topic" : "Tech",
+  "tweet_text" : "@settern is the iPhone 7 Plus as heavy as the iPhone 6s Plus or is it lighter?",
+  "tweet_lang" : "en",
+  "ttext_en" : "iPhone 7 Plus heavy iPhone 6s Plus lighter",
+  "ttext_ko" : null,
+  "ttext_es" : null,
+  "ttext_tr" : null,
+  "hashtags" : "[]",
+  "mentions" : "[@settern]",
+  "tweet_urls" : "[]",
+  "tweet_emoticons" : "[]",
+  "tweet_date" : "2016-09-07T20:00:00Z",
+  "tweet_loc" :"18.43743931, -69.96820486" 
+}{
+  "topic" : "Tech",
+  "tweet_text" : "@settern is the iPhone 7 Plus r is it lighter?",
+  "tweet_lang" : "en",
+  "ttext_en" : "iPhone 7 Plus heavy iPhone 6s Plus lighter",
+  "ttext_ko" : null,
+  "ttext_es" : null,
+  "ttext_tr" : null,
+  "hashtags" : "[]",
+  "mentions" : "[@settern, @apple]",
+  "tweet_urls" : "[]",
+  "tweet_emoticons" : "[]",
+  "tweet_date" : "2016-09-07T18:00:00Z",
+  "tweet_loc" : null 
+}
